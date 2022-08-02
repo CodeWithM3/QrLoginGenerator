@@ -19,4 +19,4 @@ app.use('/api', apiRoutes)
 
 
 
-app.listen(PORT, ()=>{console.log(`Server is running ${PORT}`)})
+app.listen(PORT, ()=>{console.log(`Server is up and running ${PORT}`)})
